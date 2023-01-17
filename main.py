@@ -1,1 +1,1 @@
-print('hello sayedee')
+print("Ei pera ar nite partechi nah!")
